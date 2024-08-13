@@ -1,4 +1,4 @@
-# 🌟 Olá! Eu sou [Seu Nome] 🌟
+# 🌟 Olá! Eu sou Ellie Nakamura 🌟
 
 🖥️ **Front-end Developer** em início de jornada, apaixonado por criar experiências web coloridas e funcionais! 💛
 
