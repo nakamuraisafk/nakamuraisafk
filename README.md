@@ -13,6 +13,8 @@
 - **JavaScript**: Para adicionar interatividade e dinamismo.
 - **React** (em breve!): Explorando frameworks modernos para construir aplicações ainda mais incríveis.
 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?nakamuraisafk&hide=html&layout=compact&theme=buefy" />
+
 ### 📫 Vamos nos conectar!
 - [LinkedIn](https://www.linkedin.com/in/nakael/)
 
