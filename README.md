@@ -12,6 +12,7 @@
 - **HTML** & **CSS**: Para dar forma e estilo às minhas criações.
 - **JavaScript**: Para adicionar interatividade e dinamismo.
 - **React** (em breve!): Explorando frameworks modernos para construir aplicações ainda mais incríveis.
+- **Python**: Experimentando com scripts simples para aprender o básico e me familiarizar com a linguagem.
 
 <center>
 <table>
