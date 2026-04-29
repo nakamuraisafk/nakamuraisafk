@@ -23,7 +23,7 @@
 ---
 
 ## 📫 Vamos nos conectar!
-- [LinkedIn](https://www.linkedin.com/in/nakael/)
+- [LinkedIn](https://www.linkedin.com/in/ellie-souza/)
 
 ---
 
