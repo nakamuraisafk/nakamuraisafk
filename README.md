@@ -1,41 +1,39 @@
 # 🌟 Olá! Eu sou Ellie Nakamura 🌟
 
-🖥️ **Front-end Developer** em início de jornada, apaixonado por criar experiências web coloridas e funcionais! 💛
+💼 **Salesforce Developer/Admin**, trabalhando com soluções que conectam tecnologia, negócio e pessoas. 🚀
 
-✨ Estou mergulhando no mundo do **HTML**, **CSS** e **JavaScript**, com o objetivo de construir interfaces que sejam tão brilhantes quanto meu entusiasmo por desenvolvimento. ✨
+✨ Atuo com o ecossistema do Salesforce, criando automações, desenvolvendo componentes e otimizando processos para tornar o dia a dia mais eficiente (e menos caótico). ✨
 
-🚀 Em constante aprendizado e sempre buscando melhorar, estou animado para enfrentar novos desafios e construir projetos incríveis. 🚀
+🧠 Tenho experiência com **Sales Cloud** e **Consumer Goods Cloud**, utilizando ferramentas como **LWC (Lightning Web Components)**, **Apex**, **Flows** e automações diversas para resolver problemas reais — daqueles que ninguém quer pegar, mas todo mundo precisa. 😄
 
 ---
 
-### 💛 Tecnologias que estou explorando:
-- **HTML** & **CSS**: Para dar forma e estilo às minhas criações.
-- **JavaScript**: Para adicionar interatividade e dinamismo.
-- **React** (em breve!): Explorando frameworks modernos para construir aplicações ainda mais incríveis.
-- **Python**: Experimentando com scripts simples para aprender o básico e me familiarizar com a linguagem.
+## 💛 Tecnologias & Ferramentas:
+- ⚡ **Salesforce Platform**: Customizações, automações e integrações  
+- 🧩 **Apex & Triggers**: Lógica de negócio sob medida  
+- 🎨 **LWC (Lightning Web Components)**: Interfaces modernas dentro do Salesforce  
+- 🔄 **Flows & Process Automation**: Otimizando processos sem (tanto) código  
+- 🛠️ **ServiceNow & Jira**: Suporte L2/L3 e gestão de demandas  
+- 🌐 **JavaScript & Python**: Apoio para scripts, integrações e experimentações  
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakamuraisafk&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=nakamuraisafk&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
+---
 
-### 📫 Vamos nos conectar!
+🚀 Gosto de atuar como um **generalista**, transitando entre desenvolvimento, suporte e melhoria contínua — sempre buscando performance, escalabilidade e soluções inteligentes.
+
+---
+
+## 📫 Vamos nos conectar!
 - [LinkedIn](https://www.linkedin.com/in/nakael/)
 
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-
 ---
 
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+---
 > 「知ってるとか知らないとか、そ言うのはどーでもいいんだよ」
 
 ![anime-laugh](https://github.com/user-attachments/assets/dab81c7e-56dd-46fa-b0fc-db9513c871dc)
